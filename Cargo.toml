@@ -1,0 +1,8 @@
+[package]
+name = "threadsafe-tokio-modbus"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = "1.44.1"
+tokio-modbus = "0.16.1"
